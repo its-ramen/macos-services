@@ -13,6 +13,6 @@ Does the opposite of the Encyrpt file.workflow.
 To use, right-click on the file you wish to decreypt (using the encrypt workflow above), and click "Decrypt file"
 A pop-up dialoge will prompt for the passphrase you chose earlier. The file will be decrypted and appeneded *.decrypted. This is for your information and the extension can be removed.
 
-## Get Checksums
+## Get Checksums.workflow
 This will generate MD5, SHA, and SHA-256 checksums for a file.
 To use, copy the install to your ~/Library/Services folder, then right-click on a **file** (will not work on folders) and a pop-up dialogue will appear with the checksums.
