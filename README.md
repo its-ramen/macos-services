@@ -15,4 +15,4 @@ A pop-up dialoge will prompt for the passphrase you chose earlier. The file will
 
 ## Get Checksums.workflow
 This will generate MD5, SHA, and SHA-256 checksums for a file.
-To use, copy the install to your ~/Library/Services folder, then right-click on a **file** (will not work on folders) and a pop-up dialogue will appear with the checksums.
+To use, copy the install to your ~/Library/Services folder, then right-click on a **file** (will not work on folders), click "Get Checksums", and a pop-up dialogue will appear with the checksums.
