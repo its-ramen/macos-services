@@ -10,7 +10,7 @@ A pop-up dialoge will prompt for a passphrase (can be anything, just remember it
 
 ## Decrypt file.workflow
 Does the opposite of the Encyrpt file.workflow.
-To use, right-click on the file you wish to decreypt (using the encrypt workflow above), and click "Decrypt file"
+To use, right-click on the file you wish to decrypt (using the encrypt workflow above), and click "Decrypt file"
 A pop-up dialoge will prompt for the passphrase you chose earlier. The file will be decrypted and appeneded *.decrypted. This is for your information and the extension can be removed.
 
 ## Get Checksums.workflow
